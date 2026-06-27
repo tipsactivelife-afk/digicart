@@ -1,0 +1,19 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="32" fill="url(#bg)"/>
+  <circle cx="986" cy="120" r="180" fill="#FACC15" fill-opacity="0.18"/>
+  <circle cx="180" cy="520" r="220" fill="#A78BFA" fill-opacity="0.16"/>
+  <rect x="84" y="102" width="330" height="56" rx="28" fill="white" fill-opacity="0.12"/>
+  <text x="120" y="138" fill="white" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">DIGITAL PRODUCT STORE</text>
+  <text x="84" y="270" fill="white" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="800">DigiCraft</text>
+  <text x="84" y="350" fill="#E9D5FF" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="600">Notion • Canva • AI Prompts • Courses</text>
+  <text x="84" y="426" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="28">Launch-ready digital storefront for creators & entrepreneurs</text>
+  <rect x="84" y="476" width="264" height="70" rx="22" fill="#FACC15"/>
+  <text x="126" y="521" fill="#3B0764" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800">Instant Download</text>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5B21B6"/>
+      <stop offset="0.48" stop-color="#6D28D9"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+</svg>

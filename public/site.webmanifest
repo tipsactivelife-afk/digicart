@@ -1,0 +1,10 @@
+{
+  "name": "DigiCraft Store",
+  "short_name": "DigiCraft",
+  "description": "Premium digital templates, prompt libraries, and creator assets.",
+  "theme_color": "#6d28d9",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": []
+}

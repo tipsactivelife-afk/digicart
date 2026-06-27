@@ -1,0 +1,67 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Ultimate Notion Life OS",
+    "slug": "notion-life-os",
+    "category": "notion-templates",
+    "price": 799,
+    "originalPrice": 1499,
+    "currency": "₹",
+    "shortDescription": "All-in-one Notion dashboard to organize your entire life.",
+    "featured": true,
+    "rating": 4.9,
+    "salesCount": 1250
+  },
+  {
+    "id": "prod-002",
+    "name": "Canva Social Media Kit Pro",
+    "slug": "canva-social-media-kit",
+    "category": "canva-templates",
+    "price": 1299,
+    "originalPrice": 2499,
+    "currency": "₹",
+    "shortDescription": "200+ Instagram, TikTok & LinkedIn templates for content creators.",
+    "featured": true,
+    "rating": 4.8,
+    "salesCount": 980
+  },
+  {
+    "id": "prod-003",
+    "name": "ChatGPT Prompt Engineering Bible",
+    "slug": "chatgpt-prompt-bible",
+    "category": "ai-prompts",
+    "price": 499,
+    "originalPrice": 999,
+    "currency": "₹",
+    "shortDescription": "500+ proven AI prompts for business, marketing & creativity.",
+    "featured": true,
+    "rating": 4.7,
+    "salesCount": 2100
+  },
+  {
+    "id": "prod-004",
+    "name": "Digital Marketing Mastery Course",
+    "slug": "digital-marketing-course",
+    "category": "course-bundles",
+    "price": 2999,
+    "originalPrice": 4999,
+    "currency": "₹",
+    "shortDescription": "Complete course: SEO, ads, social media & email marketing.",
+    "featured": true,
+    "rating": 4.9,
+    "salesCount": 650
+  },
+  {
+    "id": "prod-005",
+    "name": "UI/UX Design System Bundle",
+    "slug": "ui-ux-design-system",
+    "category": "design-assets",
+    "price": 1999,
+    "originalPrice": 3999,
+    "currency": "₹",
+    "shortDescription": "Complete Figma design system with 1000+ components & icons.",
+    "featured": true,
+    "rating": 4.8,
+    "salesCount": 420
+  }
+]
